@@ -1,0 +1,18 @@
+Rectangle: length = 7.0, width = 3.0
+square = 21.0, perimetr = 20.0
+
+Circle: radius = 10.0
+square = 314.1592653589793, perimetr = 62.83185307179586
+
+Triangle: sides = 3.0, 4.0, 5.0
+square = 6.0, perimetr = 12.0
+
+Parallelepiped: length = 5.0, width = 3.0, height = 6.0
+square = 126.0, perimetr = 56.0, volume = 90.0
+
+Tetrahedron: side = 3.0
+square = 15.588457268119894, perimetr = 18.0, volume = 3.1819805153394642
+
+Sphere: radius = 5.0
+square = 314.1592653589793, volume = 523.5987755982987
+
